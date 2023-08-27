@@ -46,6 +46,9 @@ nav > a img {
     outline: none;
     padding: 3px;
 }
+.navbar-toggler-icon i {
+    color: black !important;
+}
 .collapse {
     /*border: 1px solid black;*/
     display: flex;
